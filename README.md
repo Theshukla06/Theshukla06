@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- Personal-Portfolio Link :- https://personal-portfolio-three-gamma.vercel.app/
+
 - 🔭 I’m currently working on Web Page **Medicaps collage Student Information**
 
 - 🌱 I’m currently learning **JavaScript , Full Stack Developer**
@@ -14,7 +16,7 @@
 
 - 📫 How to reach me **ankit06shukla2017@gmail.com**
 
-- ⚡ Fun fact **I Am Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
